@@ -262,8 +262,8 @@ dre/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/ShibajyotiMaity06/drehackathon.git
-cd drehackathon
+git clone https://github.com/yaswanth8297/URJAMITRA-dre.git
+cd URJAMITRA-dre
 npm install
 ```
 
